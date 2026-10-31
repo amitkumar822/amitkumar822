@@ -1,5 +1,17 @@
 # 💫 About Me:
-I'm Amit Kumar, a Full Stack Developer with 2+ years of hands-on experience building modern web and cross-platform mobile applications. I specialize in React.js, Next.js, React Native (Expo), Node.js, Express.js, and MongoDB. I enjoy developing scalable REST APIs, responsive user interfaces, real-time features, and production-ready applications. I'm also exploring Generative AI, LLM integrations, LangChain, LangGraph, and System Design to build smarter and more efficient software solutions. Passionate about clean code, problem-solving, continuous learning, and turning ideas into impactful products.
+I'm **Amit Kumar**, a **Full Stack Developer with 2+ years of hands-on experience** building web and cross-platform mobile applications. My core expertise includes **React.js, Next.js, React Native (Expo), Node.js, Express.js, and MongoDB**.
+
+I enjoy building complete application features — from responsive user interfaces and reusable components to REST APIs, database integration, authentication, and third-party service integrations. I have worked on both web and mobile development, with a focus on creating reliable, user-friendly, and maintainable products.
+
+- 📱 Developing cross-platform mobile applications with **React Native and Expo**
+- 🌐 Building modern web applications using **React.js and Next.js**
+- ⚙️ Developing backend services and REST APIs with **Node.js and Express.js**
+- 🗄️ Working with **MongoDB and Mongoose** for data modelling and persistence
+- 🔗 Integrating services and tools such as **Cloudinary, Razorpay, and TanStack Query**
+- 🤖 Exploring **Generative AI, LLM integrations, LangChain, and LangGraph**
+- 🧠 Continuously improving my knowledge of **System Design and scalable application architecture**
+
+Passionate about problem-solving, clean code, continuous learning, and turning ideas into practical software solutions.
 
 
 ## 🌐 Socials:
